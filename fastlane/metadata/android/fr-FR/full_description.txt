@@ -1,0 +1,11 @@
+Copiez simplement dans le presse-papier depuis le menu "Partage" d'Android.
+
+Implémenté dans le système natif de partage Android pour une intégration simple d'accès.
+
+Plus de détours ennuyants à prendre pour faire quelque chose de si utile et essentiel.
+
+Cette application est la seule à également supporter le partage de VCards (contacts), de plans et de plein d'autres.
+
+Aussi, par rapport à beaucoup d'autres solutions, celle-ci n'a aucun bug visuel et n'a aucune fenêtre fantôme : cliquez juste sur "partager" pour copier depuis n'importe quelle application et collez où vous souhaitez !
+
+Merci aux nombreux contributeurs, cette application est disponible dans de nombreux langages.
